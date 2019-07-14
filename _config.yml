@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "uhhyunjoo"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "uhhyunjoo"
 description              : "An amazing website."
 url                      : "https://alro923.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "uhhyunjoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "세종대학교 컴퓨터공학과 18학번, 인터페이스 31기."
+  location         : "동방==집"
   email            :
   links:
     - label: "Email"
