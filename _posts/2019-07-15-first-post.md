@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "와! 깃허브 블로그다!"
 date: 2019-07-15
 categories: jekyll update
 ---
