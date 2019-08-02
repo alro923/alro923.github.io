@@ -1,9 +1,12 @@
 ---
-title: "프로그래밍 전시회 빤쓰런 팀 1주차"
+title: "빤쓰런 1주차"
 date: 2019-08-02
 categories: study interface
 ---
 
+세종대학교 컴퓨터 학술 동아리 인터페이스에서 진행하는 2019년도 프로그래밍 전시회, 빤쓰런 팀 진행상황입니다!
+
+# 간단한 소개
 개발 언어 : C#
 
 개발 환경
@@ -15,7 +18,7 @@ categories: study interface
 - How to make a 2d Platformer : https://www.youtube.com/watch?v=UbPiCgCkHTE
 
 # 현재 진행 상황
-- 소개
+- 이름
   - 팀 이름 : 빤쓰런
   - 저장소 이름 : 2019-Get_ppants_and_run
 - 팀원 분배
